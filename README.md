@@ -22,7 +22,7 @@ A Python project that uses the REST Countries API to fetch and display country i
 
 ### Country Information Output
 ![Output](country-search-output.png)
-![output](country-comaprison-output.png)
+![output](country-comparison-output.png)
 
 ### Country Flag Display
 ![Flag](country-flag.png)
